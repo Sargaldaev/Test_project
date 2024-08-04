@@ -9,11 +9,11 @@
 
 1. Клонируйте репозиторий
     ```bash
-    git clone https://github.com/Sargaldaev/test-project.git
+    git clone https://github.com/Sargaldaev/Test_project.git
     ```
 2. Перейдите в директорию проекта
     ```bash
-    cd yourproject
+    cd Test_project
     ```
 3. Установите зависимости
     ```bash
